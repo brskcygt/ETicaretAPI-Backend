@@ -1,0 +1,12 @@
+/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/bin/Debug/net6.0/ETicaretAPI.Domain.deps.json
+/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/bin/Debug/net6.0/ETicaretAPI.Domain.dll
+/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/bin/Debug/net6.0/ETicaretAPI.Domain.pdb
+/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ETicaretAPI.Domain.csproj.AssemblyReference.cache
+/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ETicaretAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ETicaretAPI.Domain.AssemblyInfoInputs.cache
+/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ETicaretAPI.Domain.AssemblyInfo.cs
+/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ETicaretAPI.Domain.csproj.CoreCompileInputs.cache
+/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ETicaretAPI.Domain.dll
+/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/refint/ETicaretAPI.Domain.dll
+/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ETicaretAPI.Domain.pdb
+/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/obj/Debug/net6.0/ref/ETicaretAPI.Domain.dll

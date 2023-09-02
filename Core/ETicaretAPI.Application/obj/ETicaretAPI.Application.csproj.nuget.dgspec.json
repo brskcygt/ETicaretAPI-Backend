@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj": {}
+  },
+  "projects": {
+    "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj",
+        "projectName": "ETicaretAPI.Application",
+        "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj",
+        "packagesPath": "/Users/bariskocyigit/.nuget/packages/",
+        "outputPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bariskocyigit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj": {
+                "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
+        "projectName": "ETicaretAPI.Domain",
+        "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
+        "packagesPath": "/Users/bariskocyigit/.nuget/packages/",
+        "outputPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bariskocyigit/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.307/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
