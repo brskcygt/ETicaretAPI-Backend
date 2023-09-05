@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QO99G6j3F+tFGGiYxuy+Vb3gaYL54LFlJsErYjvqT0nUuipHYEcxSdmUNSKIlUyeYsCskUc+ScKRAwQkmNiR8Q==",
+  "dgSpecHash": "/uHs6Lez9AX9I0vGtgFNlcQRkDnbxlHic+5rRlpc3+7mWUM7++elf2sZaR24szwn+ezCM3XMqWK+lpZCQ/WP3g==",
   "success": true,
-  "projectFilePath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
+  "projectFilePath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

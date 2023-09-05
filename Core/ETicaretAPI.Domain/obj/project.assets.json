@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
+      "projectUniqueName": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
       "projectName": "ETicaretAPI.Domain",
-      "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
+      "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
       "packagesPath": "/Users/bariskocyigit/.nuget/packages/",
-      "outputPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/obj/",
+      "outputPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/bariskocyigit/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0WdjZi7ea29xiYJptR82VJa+3bDWxcpJCA3MeEeZpJmunXGH6qBfqE0IyqwVyBIC+d4F9Zo+BlB0m9muelUTHQ==",
+  "dgSpecHash": "OaLu5zsoamEK1kAhy7ey0vlWzCp/dOQcIZmssMXP01p1rDKKjNte/E2mENRP7J/NyUOr3R8AvtmJ7VcsMy58OA==",
   "success": true,
-  "projectFilePath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj",
+  "projectFilePath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj",
   "expectedPackageFiles": [
     "/Users/bariskocyigit/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/bariskocyigit/.nuget/packages/microsoft.csharp/4.3.0/microsoft.csharp.4.3.0.nupkg.sha512",

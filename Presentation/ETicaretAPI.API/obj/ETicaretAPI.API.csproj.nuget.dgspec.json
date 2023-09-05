@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Presentation/ETicaretAPI.API/ETicaretAPI.API.csproj": {}
+    "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Presentation/ETicaretAPI.API/ETicaretAPI.API.csproj": {}
   },
   "projects": {
-    "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj": {
+    "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj",
+        "projectUniqueName": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj",
         "projectName": "ETicaretAPI.Application",
-        "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj",
+        "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj",
         "packagesPath": "/Users/bariskocyigit/.nuget/packages/",
-        "outputPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Application/obj/",
+        "outputPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bariskocyigit/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj": {
-                "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj"
+              "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj": {
+                "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj": {
+    "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
+        "projectUniqueName": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
         "projectName": "ETicaretAPI.Domain",
-        "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
+        "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Domain/ETicaretAPI.Domain.csproj",
         "packagesPath": "/Users/bariskocyigit/.nuget/packages/",
-        "outputPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Domain/obj/",
+        "outputPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bariskocyigit/.nuget/NuGet/NuGet.Config"
@@ -120,14 +120,14 @@
         }
       }
     },
-    "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj": {
+    "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj",
+        "projectUniqueName": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj",
         "projectName": "ETicaretAPI.Persistence",
-        "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj",
+        "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj",
         "packagesPath": "/Users/bariskocyigit/.nuget/packages/",
-        "outputPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/obj/",
+        "outputPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Infrastructure/ETicaretAPI.Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bariskocyigit/.nuget/NuGet/NuGet.Config"
@@ -142,8 +142,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj": {
-                "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj"
+              "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj": {
+                "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj"
               }
             }
           }
@@ -213,14 +213,14 @@
         }
       }
     },
-    "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Presentation/ETicaretAPI.API/ETicaretAPI.API.csproj": {
+    "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Presentation/ETicaretAPI.API/ETicaretAPI.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Presentation/ETicaretAPI.API/ETicaretAPI.API.csproj",
+        "projectUniqueName": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Presentation/ETicaretAPI.API/ETicaretAPI.API.csproj",
         "projectName": "ETicaretAPI.API",
-        "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Presentation/ETicaretAPI.API/ETicaretAPI.API.csproj",
+        "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Presentation/ETicaretAPI.API/ETicaretAPI.API.csproj",
         "packagesPath": "/Users/bariskocyigit/.nuget/packages/",
-        "outputPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Presentation/ETicaretAPI.API/obj/",
+        "outputPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Presentation/ETicaretAPI.API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bariskocyigit/.nuget/NuGet/NuGet.Config"
@@ -236,11 +236,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj": {
-                "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj"
+              "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj": {
+                "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Core/ETicaretAPI.Application/ETicaretAPI.Application.csproj"
               },
-              "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj": {
-                "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj"
+              "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj": {
+                "projectPath": "/Users/bariskocyigit/Desktop/ETicaretApp/ETicaretAPI-Backend/Infrastructure/ETicaretAPI.Persistence/ETicaretAPI.Persistence.csproj"
               }
             }
           }
